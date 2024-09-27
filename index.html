@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chemical Inventory</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Chemical Inventory</h1>
+        <div class="toolbar mb-3">
+            <button id="addRow" class="btn btn-primary">Add</button>
+            <button id="moveUp" class="btn btn-secondary">Move Up</button>
+            <button id="moveDown" class="btn btn-secondary">Move Down</button>
+            <button id="deleteRow" class="btn btn-danger">Delete</button>
+            <button id="refresh" class="btn btn-warning">Refresh</button>
+            <button id="save" class="btn btn-success">Save</button>
+        </div>
+        <table class="table table-bordered" id="chemicalTable">
+            <thead>
+                <tr>
+                    <th onclick="sortTable(0)">ID</th>
+                    <th onclick="sortTable(1)">Chemical Name</th>
+                    <th onclick="sortTable(2)">Vendor</th>
+                    <th onclick="sortTable(3)">Density</th>
+                    <th onclick="sortTable(4)">Viscosity</th>
+                    <th onclick="sortTable(5)">Packaging</th>
+                    <th onclick="sortTable(6)">Pack Size</th>
+                    <th onclick="sortTable(7)">Unit</th>
+                    <th onclick="sortTable(8)">Quantity</th>
+                </tr>
+            </thead>
+            <tbody id="chemicalBody"></tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

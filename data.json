@@ -1,0 +1,17 @@
+[
+    {"id": 1, "name": "Acetic Acid", "vendor": "ABC Chemicals", "density": "1.05 g/cm³", "viscosity": "0.89 cP", "packaging": "Bottle", "packSize": "500 mL", "unit": "mL", "quantity": 100},
+    {"id": 2, "name": "Benzene", "vendor": "XYZ Chemicals", "density": "0.87 g/cm³", "viscosity": "0.65 cP", "packaging": "Drum", "packSize": "200 L", "unit": "L", "quantity": 50},
+    {"id": 3, "name": "Ethanol", "vendor": "XYZ Chemicals", "density": "0.789 g/cm³", "viscosity": "1.2 cP", "packaging": "Bottle", "packSize": "1 L", "unit": "L", "quantity": 80},
+    {"id": 4, "name": "Methanol", "vendor": "ABC Chemicals", "density": "0.791 g/cm³", "viscosity": "0.6 cP", "packaging": "Can", "packSize": "1 L", "unit": "L", "quantity": 70},
+    {"id": 5, "name": "Sodium Chloride", "vendor": "LMN Chemicals", "density": "2.165 g/cm³", "viscosity": "N/A", "packaging": "Bag", "packSize": "1 kg", "unit": "kg", "quantity": 120},
+    {"id": 6, "name": "Calcium Carbonate", "vendor": "DEF Chemicals", "density": "2.71 g/cm³", "viscosity": "N/A", "packaging": "Bag", "packSize": "500 g", "unit": "g", "quantity": 150},
+    {"id": 7, "name": "Sodium Hydroxide", "vendor": "GHI Chemicals", "density": "2.13 g/cm³", "viscosity": "N/A", "packaging": "Bottle", "packSize": "500 g", "unit": "g", "quantity": 60},
+    {"id": 8, "name": "Potassium Chloride", "vendor": "JKL Chemicals", "density": "1.98 g/cm³", "viscosity": "N/A", "packaging": "Bag", "packSize": "1 kg", "unit": "kg", "quantity": 90},
+    {"id": 9, "name": "Hydrochloric Acid", "vendor": "MNO Chemicals", "density": "1.19 g/cm³", "viscosity": "0.9 cP", "packaging": "Bottle", "packSize": "1 L", "unit": "L", "quantity": 75},
+    {"id": 10, "name": "Sulfuric Acid", "vendor": "PQR Chemicals", "density": "1.84 g/cm³", "viscosity": "25.3 cP", "packaging": "Drum", "packSize": "200 L", "unit": "L", "quantity": 40},
+    {"id": 11, "name": "Nitric Acid", "vendor": "STU Chemicals", "density": "1.41 g/cm³", "viscosity": "1.2 cP", "packaging": "Bottle", "packSize": "1 L", "unit": "L", "quantity": 30},
+    {"id": 12, "name": "Acetone", "vendor": "VWX Chemicals", "density": "0.784 g/cm³", "viscosity": "0.32 cP", "packaging": "Can", "packSize": "1 L", "unit": "L", "quantity": 110},
+    {"id": 13, "name": "Ammonium Hydroxide", "vendor": "YZA Chemicals", "density": "0.91 g/cm³", "viscosity": "N/A", "packaging": "Bottle", "packSize": "500 mL", "unit": "mL", "quantity": 95},
+    {"id": 14, "name": "Boric Acid", "vendor": "BCD Chemicals", "density": "1.43 g/cm³", "viscosity": "N/A", "packaging": "Bag", "packSize": "1 kg", "unit": "kg", "quantity": 85},
+    {"id": 15, "name": "Glycerin", "vendor": "EFG Chemicals", "density": "1.26 g/cm³", "viscosity": "1.5 cP", "packaging": "Bottle", "packSize": "1 L", "unit": "L", "quantity": 40}
+]
